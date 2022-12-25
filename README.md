@@ -1,8 +1,5 @@
 # tec-PET-scan
-![F10 large](https://user-images.githubusercontent.com/58069246/209453680-1c5b9cd1-4e9f-4012-80f2-3e9b06d52040.jpg)
-![heartjnl-2020-November-106-22-1712-F4 large](https://user-images.githubusercontent.com/58069246/209453690-feba2d48-4c41-4d60-b83a-6f320d247ee1.jpg)
-![image](https://user-images.githubusercontent.com/58069246/209453698-a6816f3e-af11-421f-a760-0e0645766ca7.png)
-
+![image](https://user-images.githubusercontent.com/58069246/209453707-bee63f68-735f-46a6-8221-4a7f6e184296.png)
  
 
 
