@@ -19,15 +19,30 @@ There are many different tracer chemicals that can be used in medical imaging te
 
 Here is a list of some common tracer chemicals and their uses:
 - Fluorine-18: to study brain metabolism and blood flow, as well as to detect and diagnose cancer.
-- Carbon-11:  to study brain metabolism and to detect and diagnose cancer.
-- Nitrogen-13: to study blood flow and heart function.
-- Oxygen-15: to study blood flow and metabolism in the brain, heart, and other organs.
-- Technetium-99m: to study blood flow and heart function, as well as to detect and diagnose cancer.
+- Fluorine-18 (18F) is a fluorine radioisotope which is an important source of positrons. It has a mass of 18.0009380(6) u and its half-life is 109.771(20) minutes. It decays by positron emission 96% of the time and electron capture 4% of the time. Both modes of decay yield stable oxygen-18.
+- Carbon-11:  to study brain metabolism and to detect and diagnose cancer. decay 20 minutes 
+- Nitrogen-13: to study blood flow and heart function. decay 10 minutes
+- Oxygen-15: to study blood flow and metabolism in the brain, heart, and other organs. decay 2 minutes 
+- Technetium-99m: to study blood flow and heart function, as well as to detect and diagnose cancer. half-life of approximately 6 hours, emits low energy gamma rays when it decays
 - Thallium-201: to study blood flow and heart function.
 - Iodine-123: to study brain metabolism and to detect and diagnose cancer.
 - Gallium-67: to detect and diagnose cancer.
 
 This list is not exhaustive and there are many other tracer chemicals that can be used in medical imaging. The specific tracer that is used will depend on the type of imaging being performed and the information that the physician is trying to obtain.
+
+## SPECT vs pet
+
+PET (positron emission tomography) and SPECT (single photon emission computed tomography) are both medical imaging techniques that use radioactive tracers to visualize and understand the function of the body's organs and tissues. However, there are some key differences between the two techniques:
+
+Energy emissions: PET uses tracers that emit high energy positrons when they decay, while SPECT uses tracers that emit low energy gamma rays. This means that PET detectors are more sensitive and can provide more detailed images, but SPECT detectors are less expensive and more widely available.
+
+Image resolution: PET images tend to have higher resolution than SPECT images because the positrons emitted by the tracer can be detected with higher accuracy. This allows PET to produce more detailed images of the body's organs and tissues.
+
+Image quality: PET images tend to have higher contrast and better spatial resolution than SPECT images, which makes them more useful for detecting and diagnosing certain conditions. However, SPECT images can be improved by combining them with other imaging modalities, such as CT (computed tomography).
+
+Tracer availability: PET tracers are generally more expensive and harder to produce than SPECT tracers, which makes SPECT more widely available in many areas.
+
+Overall, PET and SPECT are both valuable tools for medical imaging, and the choice between the two techniques will depend on the specific information that the physician is trying to obtain  
 
 
 ## Inside a PET machine, 
@@ -98,4 +113,10 @@ e. Store processed image in "processed_image" array.
 Begin image analysis:
 a. Display "processed_image" on monitor for physician to interpret.
 b. Use "processed_image" to diagnose medical conditions, such as cancer, heart disease, and neurological disorders.
+
+
+
+
+ 
+
 
