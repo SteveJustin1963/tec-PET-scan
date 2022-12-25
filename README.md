@@ -72,12 +72,25 @@ The detectors in the PET camera collect data on the direction and energy of the 
 The raw data collected by the detectors is used to create a 3D map of the distribution of the tracer in the patient's body. This process is known as data reconstruction, and it involves sophisticated algorithms that take into account the geometry of the camera and the physical properties of the tracer.
 
 ## Image processing: 
-The reconstructed data is then processed to create a detailed image of the patient's internal organs and tissues. This may involve smoothing the image to reduce noise, adjusting the contrast to highlight certain structures, or overlaying the image on top of a CT scan to create a more detailed view of the patient's anatomy.
+The reconstructed data is then processed to create a detailed image of the patient's internal organs and tissues. This may involve smoothing the image to reduce noise (https://en.wikipedia.org/wiki/Noise_reduction), adjusting the contrast to highlight certain structures (https://en.wikipedia.org/wiki/Contrast_(vision)) and ( https://en.wikipedia.org/wiki/Display_contrast), or overlaying the image on top of a CT scan to create a more detailed view of the patient's anatomy.
 
 ## Image analysis: 
 The processed image can then be analyzed by a physician or radiologist to diagnose a variety of medical conditions, including cancer, heart disease, and neurological disorders.
 
 Overall, the process of creating a PET image involves complex mathematical and computational techniques to convert the raw data collected by the camera into a detailed and accurate representation of the patient's internal anatomy.
+
+## Reconstruction algorithms: 
+These algorithms are used to reconstruct the 3D distribution of the PET tracer in the patient's body from the 2D data collected by the camera. Reconstruction algorithms often involve techniques such as filtered back projection, maximum likelihood expectation maximization (MLEM), and ordered subset expectation maximization (OSEM).
+
+## Smoothing algorithms: 
+These algorithms are used to reduce noise in the reconstructed image, which can improve the overall quality and clarity of the image. Smoothing algorithms often involve techniques such as Gaussian smoothing, median filtering, and bilateral filtering.
+
+## Contrast enhancement algorithms: 
+These algorithms are used to adjust the contrast of the image, highlighting certain structures or features and making them more visible to the viewer. Contrast enhancement algorithms often involve techniques such as histogram equalization, gamma correction, and edge enhancement.
+
+## Image registration algorithms: 
+These algorithms are used to align or overlay multiple images from different imaging modalities, such as PET and CT, to create a more detailed view of the patient's anatomy. Image registration algorithms often involve techniques such as mutual information, normalized cross-correlation, and feature-based registration.
+
 
 
 ## outline of the steps involved in processing and analyzing data from a PET scan :
