@@ -138,7 +138,10 @@ The new design involves two stages: the first stage uses a conventional ELPA pro
  
 
 ## Ref
-
+- https://arxiv.org/abs/1801.06385
+- https://hackaday.com/2018/08/31/diy-long-distance-laser-telescope-does-some-damage/
+- https://www.youtube.com/watch?v=dqlDs3KfCPY&ab_channel=styropyro
+- 
 
  
 
