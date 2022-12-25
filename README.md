@@ -1,4 +1,12 @@
 # tec-PET-scan
+![F10 large](https://user-images.githubusercontent.com/58069246/209453680-1c5b9cd1-4e9f-4012-80f2-3e9b06d52040.jpg)
+![heartjnl-2020-November-106-22-1712-F4 large](https://user-images.githubusercontent.com/58069246/209453690-feba2d48-4c41-4d60-b83a-6f320d247ee1.jpg)
+![image](https://user-images.githubusercontent.com/58069246/209453698-a6816f3e-af11-421f-a760-0e0645766ca7.png)
+
+ 
+
+
+
 
 ## Positron emission tomography (PET) 
 is a medical imaging technique that uses special cameras to create detailed images of the inside of the body. The camera detects and measures the emission of radioactive particles called positrons, which are emitted by a special type of tracer that is injected into the patient's body. The tracer is typically a form of a sugar or other small molecule that has been labeled with a radioactive isotope, such as fluorine-18 or carbon-11.
