@@ -10,23 +10,17 @@ When a patient is injected with a tracer, the tracer is absorbed by the body and
 
 Tracers are used in a variety of medical imaging techniques, including PET, SPECT (single photon emission computed tomography), and PET-CT (PET combined with computed tomography). They can help physicians diagnose a variety of conditions, such as cancer, heart disease, and neurological disorders, by providing detailed information about the function and metabolism of different organs and tissues.
 
-There are many different tracer chemicals that can be used in medical imaging techniques such as PET (positron emission tomography) and SPECT (single photon emission computed tomography). Here is a list of some common tracer chemicals and their uses:
+There are many different tracer chemicals that can be used in medical imaging techniques such as PET (positron emission tomography) and SPECT (single photon emission computed tomography). 
 
-Fluorine-18: This tracer is commonly used in PET imaging to study brain metabolism and blood flow, as well as to detect and diagnose cancer.
-
-Carbon-11: This tracer is commonly used in PET imaging to study brain metabolism and to detect and diagnose cancer.
-
-Nitrogen-13: This tracer is commonly used in PET imaging to study blood flow and heart function.
-
-Oxygen-15: This tracer is commonly used in PET imaging to study blood flow and metabolism in the brain, heart, and other organs.
-
-Technetium-99m: This tracer is commonly used in SPECT imaging to study blood flow and heart function, as well as to detect and diagnose cancer.
-
-Thallium-201: This tracer is commonly used in SPECT imaging to study blood flow and heart function.
-
-Iodine-123: This tracer is commonly used in SPECT imaging to study brain metabolism and to detect and diagnose cancer.
-
-Gallium-67: This tracer is commonly used in SPECT imaging to detect and diagnose cancer.
+Here is a list of some common tracer chemicals and their uses:
+- Fluorine-18: to study brain metabolism and blood flow, as well as to detect and diagnose cancer.
+- Carbon-11:  to study brain metabolism and to detect and diagnose cancer.
+- Nitrogen-13: to study blood flow and heart function.
+- Oxygen-15: to study blood flow and metabolism in the brain, heart, and other organs.
+- Technetium-99m: to study blood flow and heart function, as well as to detect and diagnose cancer.
+- Thallium-201: to study blood flow and heart function.
+- Iodine-123: to study brain metabolism and to detect and diagnose cancer.
+- Gallium-67: to detect and diagnose cancer.
 
 This list is not exhaustive and there are many other tracer chemicals that can be used in medical imaging. The specific tracer that is used will depend on the type of imaging being performed and the information that the physician is trying to obtain.
 
