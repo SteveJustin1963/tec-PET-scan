@@ -30,7 +30,7 @@ Here is a list of some common tracer chemicals and their uses:
 
 This list is not exhaustive and there are many other tracer chemicals that can be used in medical imaging. The specific tracer that is used will depend on the type of imaging being performed and the information that the physician is trying to obtain.
 
-## SPECT vs pet
+## SPECT vs PET
 
 PET (positron emission tomography) and SPECT (single photon emission computed tomography) are both medical imaging techniques that use radioactive tracers to visualize and understand the function of the body's organs and tissues. However, there are some key differences between the two techniques:
 
